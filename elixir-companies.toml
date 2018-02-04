@@ -1634,3 +1634,12 @@ url = "http://www.kovnet.nl"
 github = "https://github.com/kdvnet"
 location = "Hoofddorp, The Netherlands"
 description = "Administration software for child care centers. Planning, invoicing, facilitating communication between careworkers and parents. We use Phoenix to replace the RoR backend, channels to feed the UIs."
+
+
+[[company]]
+name = "Made by Many"
+industry = "Consulting"
+url = "https://www.madebymany.com"
+location = "London, UK"
+github = "https://github.com/madebymany"
+description = "Made by Many is a company of thinkers and makers – expert technologists, experienced product designers and business strategists. We came together to create a completely new type of digital design business that bridges the gap between strategy and delivery. For the last decade we’ve worked at the forefront of product design, an emerging practice area that brings agile software methodologies, lean start-up and design thinking together – with zero dogma. We use Elixir to deliver groundbreaking products for our clients, ranging from early stage prototypes to fully scaled digital platforms."
